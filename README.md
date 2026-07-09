@@ -3,6 +3,8 @@
 <!--
 **codeforge100/codeforge100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
 Here are some ideas to get you started:
 - 🔭 I’m working on something cool 😉
 - 🌱 I’m learning new technologies to stay at the cutting edge
@@ -28,6 +30,4 @@ I am also an AI Developer with deep AI technologies such as LLM and Generate AI.
 ```
 
 During my free time, I actively contribute to open-source projects on GitHub.
--->
-
 
