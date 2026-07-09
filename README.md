@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👨‍💻  Read more about my projects at genjisaito's repositories..
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 10+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software.
 I am also an AI Developer with deep AI technologies such as LLM and Generate AI.
 
 
