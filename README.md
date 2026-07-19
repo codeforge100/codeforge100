@@ -2,10 +2,8 @@
 
 <!--
 **codeforge100/codeforge100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 -->
-Here are some ideas to get you started:
+
 - 🔭 I’m working on something cool 😉
 - 🌱 I’m learning new technologies to stay at the cutting edge
 - 🤔 I’m looking for new challenges developing software project
